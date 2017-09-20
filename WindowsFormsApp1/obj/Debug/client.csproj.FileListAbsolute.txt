@@ -1,0 +1,11 @@
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientConnected.resources
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientLogin.resources
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\client.csproj.CoreCompileInputs.cache
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\colton\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\client.csprojResolveAssemblyReference.cache
